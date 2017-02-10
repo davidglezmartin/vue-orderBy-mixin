@@ -1,0 +1,29 @@
+{
+  "name": "vue-orderby-mixin",
+  "version": "1.0.0",
+  "description": "Sort a array object with a custom field",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DWeikis/vue-orderBy-mixin.git"
+  },
+  "keywords": [
+    "vue",
+    "orderby",
+    "order",
+    "sort",
+    "sorting",
+    "mixin",
+    "vue-mixins",
+    "vue-sorting"
+  ],
+  "author": "DWeikis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DWeikis/vue-orderBy/issues"
+  },
+  "homepage": "https://github.com/DWeikis/vue-orderBy#readme"
+}
